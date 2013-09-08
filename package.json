@@ -1,0 +1,15 @@
+{
+  "name": "travisp",
+  "version": "0.0.0",
+  "description": "travis ci practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cohama",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jasmine": "~0.5.2"
+  }
+}
